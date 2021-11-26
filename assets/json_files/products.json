@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Nashville Armchair",
+    "image": "assets/images/1@1X.png",
+    "price": "112",
+    "description": "A contemporary twist on classic mid-century modern design, the Nashville armchair is upholstered in royal blue velvet and brings an air of sophistication to your living space. Available in a choice of rich velvet colours, the Nashville is also availa"
+  },
+  {
+    "name": "Wingback Chair",
+    "image": "assets/images/wingback_chair.png",
+    "price": "102",
+    "description": "This accent chair features a traditional wingback design that gives you a spot to relax in your living room or den. It has a frame made from engineered wood and steel, and it rests on four angled iron legs for an industrial modern look."
+  },
+  {
+    "name": "Plant Stand",
+    "image": "assets/images/Anais+Round+Multi-Tiered+Plant+Stand-removebg-preview.png",
+    "price": "150",
+    "description": "This accent chair features a traditional wingback design that gives you a spot to relax in your living room or den. It has a frame made from engineered wood and steel, and it rests on four angled iron legs for an industrial modern look."
+  },
+  {
+    "name": "Nesting Tables",
+    "image": "assets/images/Enid+Frame+2+Nesting+Tables-removebg-preview (1).png",
+    "price": "140",
+    "description": "This 2-piece set of nesting tables feature a gleaming gold base and marble-inspired tops for chic and sophisticated style in your living room. Each table is built on an open, circular steel metal with a sleek gold tint, and they easily can be pulled apart or kept together to save space."
+  },
+  {
+    "name": "Rolled Sofa",
+    "image": "assets/images/Eufaula+87__+Rolled+Arm+Chesterfield+Sofa-removebg-preview.png",
+    "price": "142",
+    "description": "This accent chair features a traditional wingback design that gives you a spot to relax in your living room or den. It has a frame made from engineered wood and steel, and it rests on four angled iron legs for an industrial modern look."
+  },
+  {
+    "name": "Accent Stool",
+    "image": "assets/images/Gayden+Steel+Accent+Stool-removebg-preview.png",
+    "price": "132",
+    "description": "This accent chair features a traditional wingback design that gives you a spot to relax in your living room or den. It has a frame made from engineered wood and steel, and it rests on four angled iron legs for an industrial modern look."
+  },
+  {
+    "name": "Mario Table",
+    "image": "assets/images/Mario+Nesting+Tables-removebg-preview.png",
+    "price": "102",
+    "description": "This accent chair features a traditional wingback design that gives you a spot to relax in your living room or den. It has a frame made from engineered wood and steel, and it rests on four angled iron legs for an industrial modern look."
+  },
+  {
+    "name": "Rocking Chair",
+    "image": "assets/images/Rocking+Chair-removebg-preview.png",
+    "price": "122",
+    "description": "This accent chair features a traditional wingback design that gives you a spot to relax in your living room or den. It has a frame made from engineered wood and steel, and it rests on four angled iron legs for an industrial modern look."
+  },
+  {
+    "name": "Book Case",
+    "image": "assets/images/Ryker+71.18__+H+x+24.5__+W+Standard+Bookcase-removebg-preview.png",
+    "price": "162",
+    "description": "This accent chair features a traditional wingback design that gives you a spot to relax in your living room or den. It has a frame made from engineered wood and steel, and it rests on four angled iron legs for an industrial modern look."
+  },
+  {
+    "name": "Bean Bag",
+    "image": "assets/images/Standard+Classic+Bean+Bag-removebg-preview.png",
+    "price": "192",
+    "description": "This accent chair features a traditional wingback design that gives you a spot to relax in your living room or den. It has a frame made from engineered wood and steel, and it rests on four angled iron legs for an industrial modern look."
+  }
+]
