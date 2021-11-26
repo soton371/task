@@ -2,8 +2,7 @@
 
 A new Flutter application.
 
-![vidma-recorder-26112021-193249](https://user-images.githubusercontent.com/77579218/143589713-f018dd8d-8393-4a13-9787-a557ebe9680b.gif)
-
+![vidma-recorder-26112021-193249 (1)](https://user-images.githubusercontent.com/77579218/143591203-9d52f091-f897-466c-9b0b-ed3897f5f7d0.gif)
 
 
 ## Getting Started
